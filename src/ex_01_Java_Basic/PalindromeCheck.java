@@ -24,6 +24,8 @@ public class PalindromeCheck {
 			System.out.println("The number is a Palindrome");
 		}else System.out.println("The number is NOT a Palindrome");
 		
+		
+		
 	}
 
 }
